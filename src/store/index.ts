@@ -58,7 +58,7 @@ import { createStore} from 'vuex'
 
 import axios from 'axios';
 
-let pathFromApi = "https://api.openweathermap.org/data/2.5/onecall?lat=55.75&lon=37.62&units=metric&lang=ru&appid=9b8bdb2ae53f944ff3f79cb14af0ad03&cnt=7"
+let pathFromApi = "https://api.openweathermap.org/data/2.5/onecall?lat=58.0&lon=56.14&units=metric&lang=ru&appid=9b8bdb2ae53f944ff3f79cb14af0ad03&cnt=7"
 
 function dayOfWeak(day:number):string{
   let dayOfWeak:string=""

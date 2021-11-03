@@ -5,7 +5,7 @@
      <section class="section section-weather">
         <div class="container container-weather mt-5">
 
-              <h2> Погода в Перми </h2>
+              <h2> Погода в Москве </h2>
          
               <div class="row">
                 <div class="col-2 img-weather">

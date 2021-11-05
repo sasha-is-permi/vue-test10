@@ -79,7 +79,7 @@ function dayOfWeak(day:number):string{
       dayOfWeak="Чт"
       break;
     case 5:
-      dayOfWeak="Пн"
+      dayOfWeak="Пт"
       break;   
     case 6:
       dayOfWeak="Сб"
